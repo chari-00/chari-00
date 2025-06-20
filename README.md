@@ -1,6 +1,5 @@
 <h1 align="center">Hello there 🎀, I'm Varshan V Chari</h1>
-<h3 align="center">Daikagusei.</h3>
-<h3 align="center">Code and Design.</h3>
+<h3 align="center">Daikagusei. Code and Design.</h3>
 
 - 🔭 I’m practicing problems on [Hackerrank](https://www.hackerrank.com/)
 - 🌱 I’m currently learning **Python**
