@@ -33,16 +33,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chari-00&show_icons=true&theme=midnight-purple&locale=en&layout=compact" alt="chari-00" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chari-00&theme=midnight-purple" alt="chari-00" />
-</p>
-
----
-
 ## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chari-00&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false" /><br/>
