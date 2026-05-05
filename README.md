@@ -1,74 +1,134 @@
-<h1 align="center">Hello there 🎀, I'm Varshan V Chari</h1>
-<h3 align="center">Daikagusei. Code and Design.</h3>
+<div align="center">
 
-- 🔭 I’m practicing problems on [Hackerrank](https://www.hackerrank.com/)
-- 🌱 I’m currently learning **Python**
-- 📝 I occasionally write articles on [https://medium.com/@chari00](https://medium.com/@chari00)
-- 📫 How to reach me **varshan_chari@outlook.com**
-- ⚡ Fun fact: **The more you write code, the more you realise that farming would have been a better option!**
+<!-- ═══════════════════ HEADER BANNER ═══════════════════ -->
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0D0D0D,6A0572,A855F7&height=260&section=header&text=Hello%20there%20%F0%9F%8E%80%2C%20I%27m%20Varshan%20V%20Chari&fontSize=40&fontColor=FFFFFF&fontAlignY=42&desc=Full-Stack%20Developer%20%C2%B7%20UI%2FUX%20Designer%20%C2%B7%20Cloud%20Learner&descSize=18&descAlignY=62&descColor=E879F9&animation=fadeIn)](https://github.com/chari-00)
 
----
+<!-- ═══════════════════ TYPING ANIMATION ═══════════════════ -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Building+clean+%26+efficient+products+✦;Full-Stack+Dev+%7C+UI%2FUX+Designer+✦;Cloud+Infrastructure+Learner+✦;AI-Powered+App+Builder+✦)](https://git.io/typing-svg)
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="margin: 10px;"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" style="margin: 10px;"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin: 10px;"/>
-  </a>
-  <a href="https://ifttt.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40" style="margin: 10px;"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" style="margin: 10px;"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin: 10px;"/>
-  </a>
-</p>
+<br/>
+
+<!-- ═══════════════════ PROFILE STATS BADGES ═══════════════════ -->
+[![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fchari-00&query=%24.public_repos&style=for-the-badge&color=7C3AED&labelColor=0D0D0D&label=PUBLIC+REPOS&logo=github&logoColor=white)](https://github.com/chari-00?tab=repositories)
+
+</div>
 
 ---
 
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chari-00&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=chari-00&theme=midnight-purple&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chari-00&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p>
+<!-- ═══════════════════ ABOUT ME ═══════════════════ -->
+<div align="center">
+
+### 👤 &nbsp; About Me
+
+<br/>
+
+<table align="center">
+<tr><td>🎯 <strong>Name</strong></td><td>Varshan V Chari</td></tr>
+<tr><td>💻 <strong>Focus</strong></td><td>Full-Stack Development & UI/UX Design</td></tr>
+<tr><td>☁️ <strong>Learning</strong></td><td>Cloud Infrastructure & Scalable Architectures</td></tr>
+<tr><td>🤖 <strong>Building</strong></td><td>AI-powered apps & cloud-based solutions</td></tr>
+<tr><td>🏆 <strong>Goal</strong></td><td>Products that are clean, efficient & user-friendly</td></tr>
+<tr><td>🤝 <strong>Open To</strong></td><td>Full-Stack & Open Source Collaboration</td></tr>
+</table>
+
+</div>
 
 ---
 
-### 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=chari-00&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true" />
-</p>
+<!-- ═══════════════════ SOCIALS ═══════════════════ -->
+<div align="center">
+
+### 🔗 &nbsp; Connect with Me
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chari00)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/chari-00)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@chari00)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vchari00)
+[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/vchari00)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varshanchari00@gmail.com)
+
+</div>
 
 ---
 
-<h3 align="center">Connect with me:</h3>
+<!-- ═══════════════════ TECH STACK ═══════════════════ -->
+<div align="center">
+
+### ⚙️ &nbsp; Tech Stack & Tools
+
+<br/>
+
+**Languages**
+
 <p align="center">
-  <a href="https://linkedin.com/in/chari062" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chari062" height="30" width="40" style="margin: 10px;"/>
-  </a>
-  <a href="https://stackoverflow.com/users/chari00" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="chari00" height="30" width="40" style="margin: 10px;"/>
-  </a>
-  <a href="https://instagram.com/vchari00" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vchari00" height="30" width="40" style="margin: 10px;"/>
-  </a>
-  <a href="https://www.behance.net/chari00" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="chari00" height="30" width="40" style="margin: 10px;"/>
-  </a>
-  <a href="https://medium.com/@chari00" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chari00" height="30" width="40" style="margin: 10px;"/>
-  </a>
-  <a href="https://www.hackerrank.com/chari00" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chari00" height="30" width="40" style="margin: 10px;"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,c,cpp,js&theme=dark" />
   </a>
 </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Frontend & Design**
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,html,css,figma,ps&theme=dark" />
+  </a>
+</p>
+
+**Databases & Backend**
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,appwrite,vercel&theme=dark" />
+  </a>
+</p>
+
+**Dev Tools & Version Control**
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+  </a>
+</p>
+
+</div>
+
+---
+
+<!-- ═══════════════════ GITHUB STATS ═══════════════════ -->
+<div align="center">
+
+### 📊 &nbsp; GitHub Stats
+
+<br/>
+
+<img src="https://github-readme-stats.shion.dev/api?username=chari-00&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&bg_color=0D0D0D&title_color=C084FC&text_color=F8F8F8&icon_color=A855F7&border_radius=12" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=chari-00&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact&bg_color=0D0D0D&title_color=C084FC&text_color=F8F8F8&border_radius=12" height="170"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=chari-00&theme=tokyonight&hide_border=true&background=0D0D0D&ring=A855F7&fire=E879F9&currStreakLabel=C084FC&border_radius=12" />
+
+</div>
+
+---
+
+<!-- ═══════════════════ BANNER GIF ═══════════════════ -->
+<div align="center">
+
+<img src="https://miro.medium.com/v2/resize:fit:1400/0*-PqNfSaHMbmu4aIN.gif" width="720" />
+
+</div>
+
+---
+
+<!-- ═══════════════════ FOOTER ═══════════════════ -->
+<div align="center">
+
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=A855F7,6A0572,0D0D0D&height=120&section=footer)](https://github.com/chari-00)
+
+*Crafted with intent · Built to last · Designed to impress ✦*
+
+</div>
