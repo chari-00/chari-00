@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ═══════════════════ HEADER BANNER ═══════════════════ -->
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=1a0533,4C1D95,7C3AED,C026D3,EC4899&height=280&section=header&text=Hello%20there%20%F0%9F%8E%80%2C%20I%27m%20Varshan%20V%20Chari&fontSize=42&fontColor=FFFFFF&fontAlignY=42&desc=Full-Stack%20Developer%20%C2%B7%20UI%2FUX%20Designer%20%C2%B7%20Cloud%20Learner&descSize=19&descAlignY=62&descColor=F5D0FE&animation=twinkling)](https://github.com/chari-00)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FFAFCC,50:CDB4DB,100:BDE0FE&height=280&section=header&text=Hello%20there%20%F0%9F%8E%80%2C%20I%27m%20Varshan%20V%20Chari&fontSize=42&fontColor=FFFFFF&fontAlignY=42&desc=Full-Stack%20Developer%20%C2%B7%20UI%2FUX%20Designer%20%C2%B7%20Cloud%20Learner&descSize=19&descAlignY=62&descColor=FFFFFF&animation=twinkling)](https://github.com/chari-00)
 
 <!-- ═══════════════════ TYPING ANIMATION ═══════════════════ -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=Building+clean+%26+efficient+products;Full-Stack+Dev+%7C+UI%2FUX+Designer;Cloud+Infrastructure+Learner;AI-Powered+App+Builder)](https://git.io/typing-svg)
@@ -117,7 +117,7 @@
 <!-- ═══════════════════ BANNER GIF ═══════════════════ -->
 <div align="center">
 
-<img src="https://miro.medium.com/v2/resize:fit:1400/0*-PqNfSaHMbmu4aIN.gif" width="720" />
+<img src="gif/code gif.gif" width="720" />
 
 </div>
 
@@ -126,8 +126,6 @@
 <!-- ═══════════════════ FOOTER ═══════════════════ -->
 <div align="center">
 
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=EC4899,7C3AED,4C1D95,1a0533&height=130&section=footer)](https://github.com/chari-00)
-
-*Crafted with intent · Built to last · Designed to impress*
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:BDE0FE,50:CDB4DB,100:FFAFCC&height=130&section=footer)](https://github.com/chari-00)
 
 </div>
