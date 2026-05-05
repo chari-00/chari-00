@@ -1,24 +1,23 @@
 <div align="center">
 
 <!-- ═══════════════════ HEADER BANNER ═══════════════════ -->
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0D0D0D,6A0572,A855F7&height=260&section=header&text=Hello%20there%20%F0%9F%8E%80%2C%20I%27m%20Varshan%20V%20Chari&fontSize=40&fontColor=FFFFFF&fontAlignY=42&desc=Full-Stack%20Developer%20%C2%B7%20UI%2FUX%20Designer%20%C2%B7%20Cloud%20Learner&descSize=18&descAlignY=62&descColor=E879F9&animation=fadeIn)](https://github.com/chari-00)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=1a0533,4C1D95,7C3AED,C026D3,EC4899&height=280&section=header&text=Hello%20there%20%F0%9F%8E%80%2C%20I%27m%20Varshan%20V%20Chari&fontSize=42&fontColor=FFFFFF&fontAlignY=42&desc=Full-Stack%20Developer%20%C2%B7%20UI%2FUX%20Designer%20%C2%B7%20Cloud%20Learner&descSize=19&descAlignY=62&descColor=F5D0FE&animation=twinkling)](https://github.com/chari-00)
 
 <!-- ═══════════════════ TYPING ANIMATION ═══════════════════ -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Building+clean+%26+efficient+products+✦;Full-Stack+Dev+%7C+UI%2FUX+Designer+✦;Cloud+Infrastructure+Learner+✦;AI-Powered+App+Builder+✦)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=Building+clean+%26+efficient+products;Full-Stack+Dev+%7C+UI%2FUX+Designer;Cloud+Infrastructure+Learner;AI-Powered+App+Builder)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- ═══════════════════ PROFILE STATS BADGES ═══════════════════ -->
 [![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fchari-00&query=%24.public_repos&style=for-the-badge&color=7C3AED&labelColor=0D0D0D&label=PUBLIC+REPOS&logo=github&logoColor=white)](https://github.com/chari-00?tab=repositories)
 
 </div>
 
----
+<br/>
 
 <!-- ═══════════════════ ABOUT ME ═══════════════════ -->
 <div align="center">
 
-### 👤 &nbsp; About Me
+## 👤 &nbsp; About Me
 
 <br/>
 
@@ -33,12 +32,12 @@
 
 </div>
 
----
+<br/>
 
 <!-- ═══════════════════ SOCIALS ═══════════════════ -->
 <div align="center">
 
-### 🔗 &nbsp; Connect with Me
+## 🔗 &nbsp; Connect with Me
 
 <br/>
 
@@ -51,12 +50,12 @@
 
 </div>
 
----
+<br/>
 
 <!-- ═══════════════════ TECH STACK ═══════════════════ -->
 <div align="center">
 
-### ⚙️ &nbsp; Tech Stack & Tools
+## ⚙️ &nbsp; Tech Stack & Tools
 
 <br/>
 
@@ -94,26 +93,26 @@
 
 </div>
 
----
+<br/>
 
 <!-- ═══════════════════ GITHUB STATS ═══════════════════ -->
 <div align="center">
 
-### 📊 &nbsp; GitHub Stats
+## 📊 &nbsp; GitHub Stats
 
 <br/>
 
-<img src="https://github-readme-stats.shion.dev/api?username=chari-00&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&bg_color=0D0D0D&title_color=C084FC&text_color=F8F8F8&icon_color=A855F7&border_radius=12" height="170"/>
+<img src="https://github-readme-stats.shion.dev/api?username=chari-00&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&bg_color=0D0814&title_color=C084FC&text_color=F5D0FE&icon_color=A855F7&border_radius=12" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=chari-00&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact&bg_color=0D0D0D&title_color=C084FC&text_color=F8F8F8&border_radius=12" height="170"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=chari-00&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact&bg_color=0D0814&title_color=C084FC&text_color=F5D0FE&border_radius=12" height="170"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=chari-00&theme=tokyonight&hide_border=true&background=0D0D0D&ring=A855F7&fire=E879F9&currStreakLabel=C084FC&border_radius=12" />
+<img src="https://streak-stats.demolab.com/?user=chari-00&theme=tokyonight&hide_border=true&background=0D0814&ring=A855F7&fire=E879F9&currStreakLabel=C084FC&border_radius=12" />
 
 </div>
 
----
+<br/>
 
 <!-- ═══════════════════ BANNER GIF ═══════════════════ -->
 <div align="center">
@@ -122,13 +121,13 @@
 
 </div>
 
----
+<br/>
 
 <!-- ═══════════════════ FOOTER ═══════════════════ -->
 <div align="center">
 
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=A855F7,6A0572,0D0D0D&height=120&section=footer)](https://github.com/chari-00)
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=EC4899,7C3AED,4C1D95,1a0533&height=130&section=footer)](https://github.com/chari-00)
 
-*Crafted with intent · Built to last · Designed to impress ✦*
+*Crafted with intent · Built to last · Designed to impress*
 
 </div>
