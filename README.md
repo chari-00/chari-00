@@ -119,7 +119,6 @@ whoami:
 | 🛡️ [**CyberDetection_InsiderThreats**](https://github.com/chari-00/CyberDetection_InsiderThreats) | Real-time cyber threat detection dashboard that monitors user behavior to identify insider threats using ML | `Python` `Machine Learning` |
 | 🚗 [**PredictiveMaintenance_Vehicles**](https://github.com/chari-00/PredictiveMaintenance_Vehicles) | Predictive maintenance system for commercial vehicles that forecasts failures before they happen | `Python` `Data Science` |
 
-> 💡 *Pin more repositories on your [GitHub profile settings](https://github.com/chari-00?tab=repositories) to have them auto-populate here.*
 
 <br/>
 
