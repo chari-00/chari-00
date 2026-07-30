@@ -62,25 +62,25 @@ whoami:
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=py,java,c,cpp,js,ts&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,java,c&theme=dark" />
 
 <br/><br/>
 
 **Frontend & Design**
 
-<img src="https://skillicons.dev/icons?i=react,html,css,figma,tailwind,vite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,html,css,figma,tailwind&theme=dark" />
 
 <br/><br/>
 
 **Backend, Cloud & Databases**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,aws,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,aws&theme=dark" />
 
 <br/><br/>
 
 **Dev Tools & Platforms**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
 
 </div>
 
@@ -90,8 +90,8 @@ whoami:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=chari-00&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&bg_color=0D0814&title_color=C084FC&text_color=F5D0FE&icon_color=A855F7&border_radius=12" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chari-00&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D0814&title_color=C084FC&text_color=F5D0FE&border_radius=12" />
+<img height="220" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chari-00&theme=github_dark" />
+<img height="220" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chari-00&theme=github_dark" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=chari-00&theme=tokyonight&hide_border=true&background=0D0814&ring=A855F7&fire=E879F9&currStreakLabel=C084FC&border_radius=12" />
 
@@ -119,6 +119,7 @@ whoami:
 | 🛡️ [**CyberDetection_InsiderThreats**](https://github.com/chari-00/CyberDetection_InsiderThreats) | Real-time cyber threat detection dashboard that monitors user behavior to identify insider threats using ML | `Python` `Machine Learning` |
 | 🚗 [**PredictiveMaintenance_Vehicles**](https://github.com/chari-00/PredictiveMaintenance_Vehicles) | Predictive maintenance system for commercial vehicles that forecasts failures before they happen | `Python` `Data Science` |
 
+> 💡 *Pin more repositories on your [GitHub profile settings](https://github.com/chari-00?tab=repositories) to have them auto-populate here.*
 
 <br/>
 
