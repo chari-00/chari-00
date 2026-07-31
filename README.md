@@ -102,25 +102,12 @@ whoami:
 <br/>
 
 ## 📌 Pinned Projects
-
-<div align="center">
-
-<a href="https://github.com/chari-00/CyberDetection_InsiderThreats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chari-00&repo=CyberDetection_InsiderThreats&theme=tokyonight&hide_border=true&bg_color=0D0814&title_color=C084FC&text_color=F5D0FE&icon_color=A855F7&border_radius=12" width="45%"/>
-</a>
-<a href="https://github.com/chari-00/PredictiveMaintenance_Vehicles">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chari-00&repo=PredictiveMaintenance_Vehicles&theme=tokyonight&hide_border=true&bg_color=0D0814&title_color=C084FC&text_color=F5D0FE&icon_color=A855F7&border_radius=12" width="45%"/>
-</a>
-
-</div>
-
+ 
 | Project | Description | Tech |
 |---|---|---|
 | 🛡️ [**CyberDetection_InsiderThreats**](https://github.com/chari-00/CyberDetection_InsiderThreats) | Real-time cyber threat detection dashboard that monitors user behavior to identify insider threats using ML | `Python` `Machine Learning` |
 | 🚗 [**PredictiveMaintenance_Vehicles**](https://github.com/chari-00/PredictiveMaintenance_Vehicles) | Predictive maintenance system for commercial vehicles that forecasts failures before they happen | `Python` `Data Science` |
-
-> 💡 *Pin more repositories on your [GitHub profile settings](https://github.com/chari-00?tab=repositories) to have them auto-populate here.*
-
+ 
 <br/>
 
 ## 🌱 Currently
