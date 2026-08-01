@@ -126,8 +126,6 @@ whoami:
 
 ### 💭 "Design it. Build it. Ship it."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BDE0FE,50:CDB4DB,100:FFAFCC&height=120&section=footer" width="100%"/>
-
 </div>
 
 <br/>
@@ -145,3 +143,5 @@ whoami:
 <div align="center">
 <img src="./codegif.gif" width="100%"/>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BDE0FE,50:CDB4DB,100:FFAFCC&height=120&section=footer" width="100%"/>
